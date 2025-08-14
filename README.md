@@ -1,1 +1,1 @@
-# Alzheimer-s-Diseas-Risk-Analysis-
+# Alzheimer's-Disease-Risk-Analysis-
